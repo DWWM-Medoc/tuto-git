@@ -1,6 +1,9 @@
 # Tuto Github Desktop + Visual Studio Code #
 
-<details><summary>## 0. Introduction. ##</summary>
+<details>
+<summary>
+## 0. Introduction. ##
+</summary>
 <p>
 
 J'écris ce petit tuto pour ceux qui ne seraient pas très familiers avec l'utisation de Github.
@@ -8,7 +11,10 @@ Je partage avec vous mon workflow, il m'est propre mais est relativement simple 
 </p>
 </details>
 
-<details><summary>## 1. Installation de Github Desktop. ##</summary>
+<details>
+<summary>
+## 1. Installation de Github Desktop. ##
+</summary>
 <p>
 
 Rendez-vous sur le site de [GitHub Desktop](https://desktop.github.com) puis télécharger le fichier correspondant à votre système d'exploitation.
@@ -28,7 +34,10 @@ Et TADAAA ! C'était pas si dur (*le fun viens après*)
 </p>
 </details>
 
-<details><summary>## 2. Usage. ##</summary>
+<details>
+<summary>
+## 2. Usage. ##
+</summary>
 <p>
 
 Bon si vous êtes arrivé jusque là ce n'est pas le moment de paniquer, c'est relativement simple.
