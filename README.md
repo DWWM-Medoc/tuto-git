@@ -59,7 +59,7 @@ Une fois crée vous allez arriver sur l'interface du logiciel (*là aussi rien d
 
 <details>
 <summary>
-<h2>2. Publier un dépôt.</h2>
+<h2>3. Publier un dépôt.</h2>
 </summary>
 <p>
 Si vous cliquez sur "publier le dépôt", vous arriverez sur la page suivante qui vous permettra de configurer votre dépôt.
