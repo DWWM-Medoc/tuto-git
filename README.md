@@ -8,3 +8,8 @@ Je partage avec vous mon workflow, il m'est propre mais est relativement simple 
 ## 1. Installation de Github Desktop ##
 
 Rendez-vous sur le site de [GitHub Desktop](https://desktop.github.com) puis télécharger le fichier correspondant à votre système d'exploitation.
+Une fois le fichier téléchargé, exécutez-le, vous devriez voir apparaître une fenêtre vous demandant de vous connecter à votre compte Github.
+
+![GitHub Logo](/images/login.png)
+
+Connectez-vous en associant au passage l'application Github Desktop aux liens github (*ça sert toujour*)
