@@ -66,6 +66,6 @@ Si vous cliquez sur "publier le dépôt", vous arriverez sur la page suivante qu
 
 ![Publish](images/publish.png)
 
-Voilà ! Vous savez tout (*toujour vivant ?*)
+Voilà ! Vous savez tout ce qu'il y a à connaître pour créer un dépôt (*toujour vivant ?*)
 </p>
 </details>
