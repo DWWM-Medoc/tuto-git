@@ -50,5 +50,22 @@ Il vous suffit de cliquer sur fichier => nouveau dépôt
 Ensuite une fenêtre vous permettant de régler les différents paramètre va apparaîte *WHOOSH*
 
 ![Repository Params](/images/repositoryParams.png)
+
+Une fois crée vous allez arriver sur l'interface du logiciel (*là aussi rien de bien méchant*).
+
+![Interface](/images/interface.png)
+</p>
+</details>
+
+<details>
+<summary>
+<h2>2. Publier un dépôt.</h2>
+</summary>
+<p>
+Si vous cliquez sur "publier le dépôt", vous arriverez sur la page suivante qui vous permettra de configurer votre dépôt.
+
+![Publish](images/publish.png)
+
+Voilà ! Vous savez tout (*toujour vivant ?*)
 </p>
 </details>
