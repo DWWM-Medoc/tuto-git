@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-**0. Introduction.**
+<h1>0. Introduction.</h1>
 </summary>
 <p>
 
@@ -13,7 +13,7 @@ Je partage avec vous mon workflow, il m'est propre mais est relativement simple 
 
 <details>
 <summary>
-**1. Installation de Github Desktop.**
+<h1>1. Installation de Github Desktop.</h1>
 </summary>
 <p>
 
@@ -36,7 +36,7 @@ Et TADAAA ! C'était pas si dur (*le fun viens après*)
 
 <details>
 <summary>
-**2. Usage.**
+<h1>2. Usage.</h1>
 </summary>
 <p>
 
