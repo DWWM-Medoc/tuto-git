@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-<h1>0. Introduction.</h1>
+<h2>0. Introduction.</h2>
 </summary>
 <p>
 
@@ -13,7 +13,7 @@ Je partage avec vous mon workflow, il m'est propre mais est relativement simple 
 
 <details>
 <summary>
-<h1>1. Installation de Github Desktop.</h1>
+<h2>1. Installation de Github Desktop.</h2>
 </summary>
 <p>
 
@@ -36,10 +36,19 @@ Et TADAAA ! C'était pas si dur (*le fun viens après*)
 
 <details>
 <summary>
-<h1>2. Usage.</h1>
+<h2>2. Créer un dépôt.</h2>
 </summary>
 <p>
 
 Bon si vous êtes arrivé jusque là ce n'est pas le moment de paniquer, c'est relativement simple.
+Github Desktop vous permet de créer, mettre à jour et cloner des dépôts tout en interface graphique (*et quelle interface non mais sérieusement c'est esthétique !*).
+
+Il vous suffit de cliquer sur fichier => nouveau dépôt
+
+![Create Repository](/images/createRepository.png)
+
+Ensuite une fenêtre vous permettant de régler les différents paramètre va apparaîte *WHOOSH*
+
+![Repository Params](/images/repositoryParams.png)
 </p>
 </details>
