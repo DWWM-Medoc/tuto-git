@@ -109,7 +109,7 @@ Supposons que M. A et Mr. B travaillent ensemble sur un projet :
 - M. A a bien avancé sur le programme et décide d'envoyer sont travail (**version 2.A**) sur Github
 - Le dépôt Github à été mis à jour et contiens bien la **version 2.A** super, on rentre chez nous !
 - Mr. B a terminé son travail aussi et a crée une **version 2.B** qu'il envoie sur Github
-- Le dépôt Github à été mis à jour et demain M. A risque de s'apercevoir demain qu'une partie de son travail a été remplacé
+- Le dépôt Github à été mis à jour et demain M. A risque de s'apercevoir qu'une partie de son travail a été remplacé
 
 Pour éviter ce genre de problèmes, Github a mis en place un système de branches, chacun peut ainsi créer sa propre version du projet, y apporter des modifications et la personne en charge du projet va pouvoir fusionner les branches une fois revues et validés.
 Je ne saurais que vous conseiller d'utiliser cette fonctionnalité, surtout lorsque vous travaillez sur des scripts pour éviter les conflits entre les ajouts des uns et des autre ou pour éviter de saboter l'ensemble du projet à cause d'un **;** manquant ou d'une fonctionnalité inachevée.
