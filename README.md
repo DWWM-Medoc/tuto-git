@@ -108,7 +108,7 @@ Supposons que M. A et Mr. B travaillent ensemble sur un projet :
 - Mr. B fait pareil de son côté il possède aussi la **version 1**
 - M. A a bien avancé sur le programme et décide d'envoyer sont travail (**version 2.A**) sur Github
 - Le dépôt Github à été mis à jour et contiens bien la **version 2.A** super, on rentre chez nous !
-- Mr. B a terminé son travail aussi et a crée une version **2.B** qui envoie sur Github
+- Mr. B a terminé son travail aussi et a crée une **version 2.B** qui envoie sur Github
 -Le dépôt Github à été mis à jour et demain M. A risque de s'apercevoir demain qu'une partie de son travail a été remplacé
 
 Pour éviter ce genre de problèmes, Github a mis en place un système de branches, chacun peut ainsi créer sa propre version du projet, y apporter des modifications et la personne en charge du projet va pouvoir fusionner les branches une fois revues et validés.
