@@ -128,7 +128,7 @@ Vous pourrez par la suite utiliser cet onglet pour changer de branche à tout mo
 </summary>
 <p>
 Avant de commencer à travailler, il vous faut vous assurer que la version du projet sur votre PC correspond bien à la dernière version en ligne sur Github.
-Pour cela l'opération à effectuer s'appelle un **Pull **, et c'est extrêmement simple.
+Pour cela l'opération à effectuer s'appelle un **Pull**, et c'est extrêmement simple.
 
 ![Pull](images/pull.png)
 
@@ -141,8 +141,8 @@ C'est tout mais il vaut mieux le savoir !
 <h2>7. Push</h2>
 </summary>
 <p>
-Nous avons déjà mentionné le ** Push ** dans la section consacrée aux branches, vous savez ce dont il s'agit, il ne reste plus qu'à vous montrer comment faire un push.
-Tout d'abord, vous effectuer un ** Commit ** pour décrire les modifications apportés au projet par rapport à la dernière version.
+Nous avons déjà mentionné le **Push** dans la section consacrée aux branches, vous savez ce dont il s'agit, il ne reste plus qu'à vous montrer comment faire un push.
+Tout d'abord, vous effectuer un **Commit** pour décrire les modifications apportés au projet par rapport à la dernière version.
 
 ![Commit](images/commit.png)
 
