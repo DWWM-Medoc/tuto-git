@@ -1,4 +1,4 @@
-# Tuto Github Desktop + Visual Studio Code #
+# Tuto Github Desktop #
 
 <details>
 <summary>
