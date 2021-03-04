@@ -92,3 +92,70 @@ Un autre alternative consiste à cloner un dépôt en renseignant son URL.
 Nous avons maintenant fait le tour des méthodes pour créer et cloner un dépôt, vous êtes maintenant prêt **à coder du sal**.
 </p>
 </details>
+
+<details>
+<summary>
+<h2>5. Les branches.</h2>
+</summary>
+<p>
+Pour synchroniser votre travail avec Github, l'opération s'appelle **Push**
+
+Lors d'un Push, git (*le programme gérant le contrôle de version, pas github*) va comparer le dossier local au dépôt Github distant et réécrire sur le dépôt Github les éléments ayant subit des modification.
+C'est très efficace, on ne re-upload pas l'ensemble du projet à chaques fois ce qui est pratique quand on a une connexion de babouin comme la mienne seulement il y a un mais.
+Supposons que M. A et Mr. B travaillent ensemble sur un projet :
+
+- M. A clone le dépôt et commence à travailler sur ce que nous appelerons la **version 1** du projet
+- Mr. B fait pareil de son côté il possède aussi la **version 1**
+- M. A a bien avancé sur le programme et décide d'envoyer sont travail (**version 2.A**) sur Github
+- Le dépôt Github à été mis à jour et contiens bien la **version 2.A** super, on rentre chez nous !
+- Mr. B a terminé son travail aussi et a crée une version **2.B** qui envoie sur Github
+-Le dépôt Github à été mis à jour et demain M. A risque de s'apercevoir demain qu'une partie de son travail a été remplacé
+
+Pour éviter ce genre de problèmes, Github a mis en place un système de branches, chacun peut ainsi créer sa propre version du projet, y apporter des modifications et la personne en charge du projet va pouvoir fusionner les branches une fois revues et validés.
+Je ne saurais que vous conseiller d'utiliser cette fonctionnalité, surtout lorsque vous travaillez sur des scripts pour éviter les conflits entre les ajouts des uns et des autre ou pour éviter de saboter l'ensemble du projet à cause d'un **;** manquant ou d'une fonctionnalité inachevée.
+Pour créer une branche rien de plus simple et une image valant mille mots, et bien voilà deux-mille mots.
+
+![Nouvelle Branche](images/newBranch.png)
+![Nouvelle Branche](images/newBranch2.png)
+
+Vous pourrez par la suite utiliser cet onglet pour changer de branche à tout moment, il ne me reste plus qu'à vous montrer les opération **Pull** et **Push**.
+</p>
+</details>
+
+<details>
+<summary>
+<h2>6. Pull</h2>
+</summary>
+<p>
+Avant de commencer à travailler, il vous faut vous assurer que la version du projet sur votre PC correspond bien à la dernière version en ligne sur Github.
+Pour cela l'opération à effectuer s'appelle un **Pull**, et c'est extrêmement simple.
+
+![Pull](images/pull.png)
+
+C'est tout mais il vaut mieux le savoir !
+</p>
+</details>
+
+<details>
+<summary>
+<h2>7. Push</h2>
+</summary>
+<p>
+Nous avons déjà mentionné le **Push** dans la section consacrée aux branches, vous savez ce dont il s'agit, il ne reste plus qu'à vous montrer comment faire un push.
+Tout d'abord, vous effectuer un **Commit** pour décrire les modifications apportés au projet par rapport à la dernière version.
+
+![Commit](images/commit.png)
+
+Enfin il ne vous reste plus qu'à cliquer sur **Push origin** pour uploader vos modifications aux serveurs de Github.
+
+![Push](images/push.png)
+
+Et dernière petite astuce, il est aussi possible d'effectuer un push directement depuis Visual Studio (de nombreux IDE incluent cete fonctionnalité).
+
+![Push Visual Studio Code](images/pushVSCode.png)
+
+Et voilà vous avez tout les rudiments pour pouvoir commencer à utiliser Github en tout simplicité !
+</p>
+<details>
+
+by Intronirisme
