@@ -66,6 +66,29 @@ Si vous cliquez sur "publier le dépôt", vous arriverez sur la page suivante qu
 
 ![Publish](images/publish.png)
 
-Voilà ! Vous savez tout ce qu'il y a à connaître pour créer un dépôt (*toujour vivant ?*)
+Voilà ! Vous savez tout ce qu'il y a à connaître pour créer un dépôt partagé (*toujour vivant ?*)
+</p>
+</details>
+
+<details>
+<summary>
+<h2>4. Cloner un dépôt.</h2>
+</summary>
+<p>
+Nous allons maintenant voir comment réaliser l'opération inverse, c'est à dire récupérer un dépôt déjà en ligne sur Github pour le synchroniser sur votre PC.
+Pour cela il vous suffit de cliquer sur **Fichier** => **Clone Repository** vous ferez ensuite face à une fenêtre contenant la liste de vos dépôts.
+
+![Liste Dépôts](images/clone.png)
+
+Vous pouvez aussi cloner depuis le site (*vu qu'on a associé les liens Github à l'application Desktop vous vous souvenez*)
+
+![Clonage URL](images/cloneURL.png)
+
+Il ne vous reste plus qu'à définir l'emplacement local et à cloner le dépôt de votre choix.
+Un autre alternative consiste à cloner un dépôt en renseignant son URL.
+
+![Clonage URL](images/cloneURL2.png)
+
+Nous avons maintenant fait le tour des méthodes pour créer et cloner un dépôt, vous êtes maintenant prêt **à coder du sal**.
 </p>
 </details>
