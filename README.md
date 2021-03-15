@@ -132,7 +132,8 @@ Pour cela l'opération à effectuer s'appelle un **Pull**, et c'est extrêmement
 
 ![Pull](images/pull.png)
 
-C'est tout mais il vaut mieux le savoir !
+En cliquant sur ce bouton, Github Desktop va vérifier s'il y a eu des modifications sur le dépôt en ligne qui doivent être ajoutés à votre version locale du projet.
+C'est pas grand chose mais il vaut mieux le savoir !
 </p>
 </details>
 
